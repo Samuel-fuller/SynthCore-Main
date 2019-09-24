@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{8C5C6111-F68F-4A86-8672-E62F4BEAC221}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugin Kernel">
+      <UniqueIdentifier>{015E3273-07F5-42FF-AEF9-A3B9264D3482}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="vstgui4">
+      <UniqueIdentifier>{6CDD98F5-D4ED-4646-9714-228C2F9EC47F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CustomControls">
+      <UniqueIdentifier>{E367FF23-25B3-49AE-AC8C-56AA6A562025}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RAFX2 Source">
+      <UniqueIdentifier>{EF5D3C31-C79F-449F-A9D9-0FEA9AB86A9E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugin Kernel\Plugin GUI">
+      <UniqueIdentifier>{6C8EF6A4-AE6F-483E-BBA2-FC82A47974AC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugin Kernel\Plugin Core">
+      <UniqueIdentifier>{B55408F7-EB5E-416C-B2CA-A455E84423F5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PluginObjects">
+      <UniqueIdentifier>{FDB7FEDA-D1B1-47EE-A97E-76398F9F30CE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PluginObjects\Synth Source">
+      <UniqueIdentifier>{eb1f0377-8398-4584-a0eb-7f4b7d7c9d90}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\RAFX2 Source\RackAFXDLL.cpp">
+      <Filter>RAFX2 Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\RAFX2 Source\Rafx2Plugin.cpp">
+      <Filter>RAFX2 Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\vstgui4\vstgui\vstgui_uidescription_win32.cpp">
+      <Filter>vstgui4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\vstgui4\vstgui\vstgui_win32.cpp">
+      <Filter>vstgui4</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CustomControls\customviews.cpp">
+      <Filter>CustomControls</Filter>
+    </ClCompile>
+    <ClCompile Include="..\RAFX2 Source\Rafx2PluginBase.cpp">
+      <Filter>RAFX2 Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\CustomControls\customcontrols.cpp">
+      <Filter>CustomControls</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginKernel\plugincore.cpp">
+      <Filter>Plugin Kernel\Plugin Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginKernel\pluginbase.cpp">
+      <Filter>Plugin Kernel\Plugin Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginKernel\plugingui.cpp">
+      <Filter>Plugin Kernel\Plugin GUI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginKernel\pluginparameter.cpp">
+      <Filter>Plugin Kernel\Plugin Core</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginObjects\fxobjects.cpp">
+      <Filter>PluginObjects</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginObjects\Synth Source\dca_eg.cpp">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginObjects\Synth Source\synthcore.cpp">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginObjects\Synth Source\synthlfo.cpp">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginObjects\Synth Source\synthoscillator.cpp">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginObjects\Synth Source\vafilters.cpp">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginObjects\Synth Source\wavedata.cpp">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginObjects\Synth Source\wavetableoscillator.cpp">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\PluginObjects\Synth Source\window_eg.cpp">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\RAFX2 Source\RackAFXDLL.h">
+      <Filter>RAFX2 Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\RAFX2 Source\Rafx2Plugin.h">
+      <Filter>RAFX2 Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CustomControls\customviews.h">
+      <Filter>CustomControls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Resources\resource.h">
+      <Filter>Resources</Filter>
+    </ClInclude>
+    <ClInclude Include="..\RAFX2 Source\Rafx2PluginBase.h">
+      <Filter>RAFX2 Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CustomControls\customcontrols.h">
+      <Filter>CustomControls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginKernel\pluginbase.h">
+      <Filter>Plugin Kernel\Plugin Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginKernel\plugincore.h">
+      <Filter>Plugin Kernel\Plugin Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginKernel\guiconstants.h">
+      <Filter>Plugin Kernel\Plugin GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginKernel\plugindescription.h">
+      <Filter>Plugin Kernel\Plugin Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginKernel\plugingui.h">
+      <Filter>Plugin Kernel\Plugin GUI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginKernel\pluginstructures.h">
+      <Filter>Plugin Kernel\Plugin Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginKernel\pluginparameter.h">
+      <Filter>Plugin Kernel\Plugin Core</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\fxobjects.h">
+      <Filter>PluginObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\filters.h">
+      <Filter>PluginObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CustomControls\atomicops.h">
+      <Filter>CustomControls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\CustomControls\readerwriterqueue.h">
+      <Filter>CustomControls</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\analogsaw.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\dca_eg.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\synthcore.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\synthdefs.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\synthlfo.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\synthoscillator.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\trace.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\vafilters.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\wavedata.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\wavetableoscillator.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\window_eg.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\midiconst.h">
+      <Filter>PluginObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\trace.h">
+      <Filter>PluginObjects</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\wavetable.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\PluginObjects\Synth Source\analog_square_1.h">
+      <Filter>PluginObjects\Synth Source</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\Resources\PluginGUI.uidesc">
+      <Filter>Resources</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="PluginGUIMain.rc">
+      <Filter>Resources</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

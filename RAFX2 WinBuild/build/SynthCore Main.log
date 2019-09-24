@@ -1,0 +1,582 @@
+﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  Rafx2PluginBase.cpp
+  Rafx2Plugin.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(406): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(407): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(418): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(419): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(431): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(481): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(522): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(523): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(920): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(928): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(67): warning C4244: 'initializing': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(207): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthlfo.h(109): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\dca_eg.h(128): warning C4114: same type qualifier used more than once
+  RackAFXDLL.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(406): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(407): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(418): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(419): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(431): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(481): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(522): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(523): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(920): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(928): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(67): warning C4244: 'initializing': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(207): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthlfo.h(109): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\dca_eg.h(128): warning C4114: same type qualifier used more than once
+  window_eg.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(406): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(407): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(418): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(419): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(431): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(481): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(522): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(523): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(920): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(928): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\window_eg.h(41): warning C4244: 'initializing': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\window_eg.h(114): warning C4244: 'initializing': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\window_eg.cpp(50): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\window_eg.cpp(61): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+  wavetableoscillator.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(406): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(407): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(418): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(419): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(431): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(481): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(522): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(523): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(920): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(928): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(67): warning C4244: 'initializing': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(207): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.cpp(34): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.cpp(45): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.cpp(78): warning C4018: '<': signed/unsigned mismatch
+  wavedata.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavedata.cpp(148): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavedata.cpp(178): warning C4244: 'initializing': conversion from 'float' to 'UINT', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavedata.cpp(224): warning C4244: 'initializing': conversion from 'float' to 'UINT', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavedata.cpp(305): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavedata.cpp(322): warning C4244: 'initializing': conversion from 'float' to 'UINT', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavedata.cpp(374): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavedata.cpp(444): warning C4244: 'initializing': conversion from 'float' to 'UINT', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavedata.cpp(542): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavedata.cpp(637): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavedata.cpp(656): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+  vafilters.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(406): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(407): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(418): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(419): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(431): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(481): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(522): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(523): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(920): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(928): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+  synthoscillator.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(406): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(407): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(418): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(419): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(431): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(481): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(522): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(523): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(920): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(928): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(67): warning C4244: 'initializing': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(207): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthoscillator.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  synthlfo.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(406): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(407): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(418): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(419): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(431): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(481): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(522): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(523): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(920): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(928): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthlfo.h(109): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthlfo.cpp(27): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthlfo.cpp(110): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthlfo.cpp(116): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthlfo.cpp(125): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  synthcore.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(406): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(407): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(418): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(419): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(431): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(481): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(522): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(523): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(920): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(928): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(67): warning C4244: 'initializing': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(207): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthlfo.h(109): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\dca_eg.h(128): warning C4114: same type qualifier used more than once
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\trace.h(20): warning C4996: '_vsnprintf': This function or variable may be unsafe. Consider using _vsnprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1400): note: see declaration of '_vsnprintf'
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthcore.cpp(16): warning C4390: ';': empty controlled statement found; is this the intent?
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthcore.cpp(19): warning C4390: ';': empty controlled statement found; is this the intent?
+  dca_eg.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(406): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(407): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(418): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(419): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(431): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(481): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(522): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(523): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(920): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(928): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\dca_eg.h(128): warning C4114: same type qualifier used more than once
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\dca_eg.cpp(182): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\dca_eg.cpp(185): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\dca_eg.cpp(188): warning C4244: 'argument': conversion from 'double' to 'uint32_t', possible loss of data
+  fxobjects.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+  pluginparameter.cpp
+  plugingui.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginkernel\plugingui.cpp(1570): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  plugincore.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(333): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(650): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(651): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(742): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(744): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(757): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(759): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(772): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(774): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(776): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1089): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1111): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(1131): warning C4018: '>=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2789): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2840): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2843): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(2996): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(3354): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4891): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4894): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(4895): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8713): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\fxobjects.h(8717): warning C4018: '<=': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(159): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(406): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(407): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(418): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(419): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(430): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(431): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(460): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(461): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(480): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(481): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(522): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(523): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(920): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthdefs.h(928): warning C4244: '=': conversion from 'double' to 'uint32_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(67): warning C4244: 'initializing': conversion from 'double' to 'uint64_t', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(207): warning C4018: '>': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(289): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetable.h(303): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(246): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\wavetableoscillator.h(272): warning C4018: '<': signed/unsigned mismatch
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\synthlfo.h(109): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginobjects\synth source\dca_eg.h(128): warning C4114: same type qualifier used more than once
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginkernel\plugincore.cpp(334): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\pluginkernel\plugincore.cpp(337): warning C4244: '=': conversion from 'const double' to 'float', possible loss of data
+  pluginbase.cpp
+  customviews.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\customcontrols\customviews.cpp(80): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\customcontrols\customviews.cpp(475): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  customcontrols.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\customcontrols\customcontrols.cpp(440): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\vstgui4\vstgui\lib\controls\cslider.h(49): note: see declaration of 'VSTGUI::CSlider::getMode'
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\customcontrols\customcontrols.cpp(441): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\vstgui4\vstgui\lib\controls\cslider.h(49): note: see declaration of 'VSTGUI::CSlider::getMode'
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\customcontrols\customcontrols.cpp(447): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\vstgui4\vstgui\lib\controls\cslider.h(49): note: see declaration of 'VSTGUI::CSlider::getMode'
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\customcontrols\customcontrols.cpp(585): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\vstgui4\vstgui\lib\controls\cslider.h(49): note: see declaration of 'VSTGUI::CSlider::getMode'
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\customcontrols\customcontrols.cpp(586): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\vstgui4\vstgui\lib\controls\cslider.h(49): note: see declaration of 'VSTGUI::CSlider::getMode'
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\synthcore main\customcontrols\customcontrols.cpp(592): warning C4996: 'VSTGUI::CSlider::getMode': was declared deprecated
+  c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\vstgui4\vstgui\lib\controls\cslider.h(49): note: see declaration of 'VSTGUI::CSlider::getMode'
+  vstgui_win32.cpp
+c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\vstgui4\vstgui\lib\cview.cpp(949): warning C4996: 'VSTGUI::Animation::Animator::addAnimation': was declared deprecated
+  c:\users\sammyfuller\appdata\roaming\rackafx 7.0\rackafxprojects\vstgui4\vstgui\lib\animation\animator.h(26): note: see declaration of 'VSTGUI::Animation::Animator::addAnimation'
+  vstgui_uidescription_win32.cpp
+  Generating Code...
+     Creating library C:\Users\sammyfuller\AppData\Roaming\RackAFX 7.0\RackAFXProjects\SynthCore Main\RAFX2 WinBuild\\build\SynthCore Main.lib and object C:\Users\sammyfuller\AppData\Roaming\RackAFX 7.0\RackAFXProjects\SynthCore Main\RAFX2 WinBuild\\build\SynthCore Main.exp
+  SynthCore Main.vcxproj -> C:\Users\sammyfuller\AppData\Roaming\RackAFX 7.0\PlugIns\SynthCore Main.rafx2
